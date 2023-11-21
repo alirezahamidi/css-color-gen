@@ -1,0 +1,23 @@
+{
+  "name": "css-color-gen",
+  "version": "1.0.0",
+  "description": "A css color generator",
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "GenerateCssColors": "./index.js",
+    "GenerateCssColor": "./index.js",
+    "css-color-gen": "./index.js"
+  },
+  "author": "alirezahamidi",
+  "preferGlobal": true,
+  "license": "MIT",
+  "dependencies": {
+    "color": "^4.2.3"
+  }
+}
