@@ -10,9 +10,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "GenerateCssColors": "./index.js",
-    "GenerateCssColor": "./index.js",
-    "css-color-gen": "./index.js"
+    "GenerateCssColors": "index.js",
+    "GenerateCssColor": "index.js",
+    "css-color-gen": "index.js"
   },
   "author": "alirezahamidi",
   "preferGlobal": true,
